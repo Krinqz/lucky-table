@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "lucktable:block/luck_table" }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": { "item": "minecraft:emerald" },
+    "D": { "item": "minecraft:diamond" },
+    "B": { "item": "minecraft:book" },
+    "O": { "item": "minecraft:obsidian" }
+  },
+  "pattern": [
+    "EDE",
+    "OBO",
+    "OOO"
+  ],
+  "result": {
+    "id": "lucktable:luck_table",
+    "count": 1
+  }
+}
