@@ -42,11 +42,11 @@ displayName="${mod_name}" #mandatory
 #credits="" #optional
 
 # The authors of the mod, displayed in the mod UI (optional)
-#authors=""
+authors="Krinqz"
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Example mod description.
+Craft the Luck Table and unlock permanent Luck effects. Pay with diamonds, a nether star and the dragon egg to reach Luck 3, 6 and 9, one stage at a time and bound to your own character. Every item you mine or loot from a mob gives you as many bonus drops as your Luck value.
 '''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
